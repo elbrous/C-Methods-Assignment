@@ -1,0 +1,14 @@
+C:\Users\46722\source\repos\C# Methods\bin\Debug\net6.0\C# Methods.exe
+C:\Users\46722\source\repos\C# Methods\bin\Debug\net6.0\C# Methods.deps.json
+C:\Users\46722\source\repos\C# Methods\bin\Debug\net6.0\C# Methods.runtimeconfig.json
+C:\Users\46722\source\repos\C# Methods\bin\Debug\net6.0\C# Methods.dll
+C:\Users\46722\source\repos\C# Methods\bin\Debug\net6.0\C# Methods.pdb
+C:\Users\46722\source\repos\C# Methods\obj\Debug\net6.0\C# Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46722\source\repos\C# Methods\obj\Debug\net6.0\C# Methods.AssemblyInfoInputs.cache
+C:\Users\46722\source\repos\C# Methods\obj\Debug\net6.0\C# Methods.AssemblyInfo.cs
+C:\Users\46722\source\repos\C# Methods\obj\Debug\net6.0\C# Methods.csproj.CoreCompileInputs.cache
+C:\Users\46722\source\repos\C# Methods\obj\Debug\net6.0\C# Methods.dll
+C:\Users\46722\source\repos\C# Methods\obj\Debug\net6.0\refint\C# Methods.dll
+C:\Users\46722\source\repos\C# Methods\obj\Debug\net6.0\C# Methods.pdb
+C:\Users\46722\source\repos\C# Methods\obj\Debug\net6.0\C# Methods.genruntimeconfig.cache
+C:\Users\46722\source\repos\C# Methods\obj\Debug\net6.0\ref\C# Methods.dll
